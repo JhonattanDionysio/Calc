@@ -1,0 +1,28 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(63, 61, 61);
+}
+
+h1{
+    color:rgb(83, 82, 82)
+}
+
+.container{
+    border: 5px solid #ddd;
+    box-shadow: 0px 0px 10px;
+    padding: 30px;
+    background-color: #ddd;
+    margin-top: 150px;
+}
+
+.botao-calcular{
+    text-align: center;
+    font-size: 14px;
+    width: 35%;
+    margin-top: 20px;
+    padding: 3px;
+    background-color: rgb(83, 82, 82);
+    color: cornsilk;
+    cursor:pointer;
+}
